@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🧠 Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+
+    <!-- Start Screen -->
+    <div id="start-screen" class="screen active">
+      <h1>🧠 Quiz App</h1>
+      <input id="name" type="text" placeholder="Enter your name" />
+
+      <label>Select Category:</label>
+      <select id="category">
+        <option>All</option>
+        <option>Programming</option>
+        <option>Mathematics</option>
+        <option>Geography</option>
+        <option>Science</option>
+        <option>Social Studies</option>
+        <option>Sports</option>
+        <option>Technology</option>
+        <option>Movies</option>
+      </select>
+
+      <label>Number of Questions:</label>
+      <select id="numQuestions">
+        <option>5</option>
+        <option>10</option>
+        <option>15</option>
+        <option>20</option>
+        <option>25</option>
+      </select>
+
+      <button id="startBtn">Start Quiz</button>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="screen">
+      <div class="top-bar">
+        <div id="progress">Question 1/5</div>
+        <span id="timer">00:00</span>
+      </div>
+
+      <div id="question-card" class="card">
+        <div id="question-box"></div>
+        <div id="options"></div>
+      </div>
+
+      <div class="controls">
+        <button id="goBackBtn" class="small-btn">Go Back</button>
+        <button id="nextBtn">Next</button>
+      </div>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="result-screen" class="screen">
+      <h2>🎉 Quiz Complete!</h2>
+      <p id="result-text"></p>
+      <button id="restartBtn">Restart</button>
+    </div>
+
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

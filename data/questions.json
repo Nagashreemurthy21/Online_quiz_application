@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "category": "Programming",
+    "question": "What does HTML stand for?",
+    "choices": [
+      "Hyperlinks and Text Markup Language",
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 2,
+    "category": "Programming",
+    "question": "Which language is used to style web pages?",
+    "choices": ["HTML", "Python", "CSS", "Java"],
+    "correctIndex": 2
+  },
+  {
+    "id": 3,
+    "category": "Programming",
+    "question": "Which company developed JavaScript?",
+    "choices": ["Mozilla", "Microsoft", "Netscape", "Apple"],
+    "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "category": "Programming",
+    "question": "What does DOM stand for?",
+    "choices": [
+      "Document Object Model",
+      "Data Object Method",
+      "Digital Object Management",
+      "Document Orientation Model"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "category": "Programming",
+    "question": "Which of the following is not a programming language?",
+    "choices": ["Python", "HTML", "C++", "Java"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": 6,
+    "category": "Mathematics",
+    "question": "What is the square root of 144?",
+    "choices": ["10", "12", "14", "16"],
+    "correctIndex": 1
+  },
+  {
+    "id": 7,
+    "category": "Mathematics",
+    "question": "What is 15 * 6?",
+    "choices": ["80", "85", "90", "95"],
+    "correctIndex": 2
+  },
+  {
+    "id": 8,
+    "category": "Mathematics",
+    "question": "What is 100 divided by 25?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 3
+  },
+  {
+    "id": 9,
+    "category": "Mathematics",
+    "question": "What is the value of π (pi) up to 2 decimal places?",
+    "choices": ["3.12", "3.14", "3.16", "3.18"],
+    "correctIndex": 1
+  },
+  {
+    "id": 10,
+    "category": "Mathematics",
+    "question": "Solve: 5² + 3²",
+    "choices": ["25", "34", "38", "28"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": 11,
+    "category": "Geography",
+    "question": "Which is the largest continent?",
+    "choices": ["Africa", "Europe", "Asia", "North America"],
+    "correctIndex": 2
+  },
+  {
+    "id": 12,
+    "category": "Geography",
+    "question": "What is the capital of France?",
+    "choices": ["Paris", "Rome", "Madrid", "Berlin"],
+    "correctIndex": 0
+  },
+  {
+    "id": 13,
+    "category": "Geography",
+    "question": "Mount Everest is located in which country?",
+    "choices": ["India", "Nepal", "China", "Bhutan"],
+    "correctIndex": 1
+  },
+  {
+    "id": 14,
+    "category": "Geography",
+    "question": "Which ocean is the largest?",
+    "choices": ["Indian", "Arctic", "Atlantic", "Pacific"],
+    "correctIndex": 3
+  },
+  {
+    "id": 15,
+    "category": "Geography",
+    "question": "The Sahara Desert is located on which continent?",
+    "choices": ["Asia", "Africa", "Australia", "South America"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": 16,
+    "category": "Science",
+    "question": "What is H2O commonly known as?",
+    "choices": ["Hydrogen", "Oxygen", "Water", "Salt"],
+    "correctIndex": 2
+  },
+  {
+    "id": 17,
+    "category": "Science",
+    "question": "Which planet is known as the Red Planet?",
+    "choices": ["Venus", "Earth", "Mars", "Jupiter"],
+    "correctIndex": 2
+  },
+  {
+    "id": 18,
+    "category": "Science",
+    "question": "What part of the plant conducts photosynthesis?",
+    "choices": ["Root", "Stem", "Leaf", "Flower"],
+    "correctIndex": 2
+  },
+  {
+    "id": 19,
+    "category": "Science",
+    "question": "What gas do plants absorb from the atmosphere?",
+    "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctIndex": 1
+  },
+  {
+    "id": 20,
+    "category": "Science",
+    "question": "The human heart has how many chambers?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": 21,
+    "category": "Social Studies",
+    "question": "Who was the first President of the United States?",
+    "choices": ["Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson"],
+    "correctIndex": 1
+  },
+  {
+    "id": 22,
+    "category": "Social Studies",
+    "question": "What year did World War II end?",
+    "choices": ["1942", "1945", "1950", "1939"],
+    "correctIndex": 1
+  },
+  {
+    "id": 23,
+    "category": "Social Studies",
+    "question": "Who wrote the Indian Constitution?",
+    "choices": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+    "correctIndex": 2
+  },
+  {
+    "id": 24,
+    "category": "Social Studies",
+    "question": "Which day is celebrated as International Labour Day?",
+    "choices": ["April 14", "May 1", "June 5", "July 4"],
+    "correctIndex": 1
+  },
+  {
+    "id": 25,
+    "category": "Social Studies",
+    "question": "Who is known as the Father of the Nation (India)?",
+    "choices": ["Mahatma Gandhi", "Subhash Chandra Bose", "Nehru", "Bhagat Singh"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 26,
+    "category": "Sports",
+    "question": "Which country won the 2019 Cricket World Cup?",
+    "choices": ["India", "England", "Australia", "New Zealand"],
+    "correctIndex": 1
+  },
+  {
+    "id": 27,
+    "category": "Sports",
+    "question": "How many players are there in a football team?",
+    "choices": ["9", "10", "11", "12"],
+    "correctIndex": 2
+  },
+  {
+    "id": 28,
+    "category": "Sports",
+    "question": "Which sport is Michael Jordan famous for?",
+    "choices": ["Football", "Tennis", "Basketball", "Baseball"],
+    "correctIndex": 2
+  },
+  {
+    "id": 29,
+    "category": "Sports",
+    "question": "Which country hosts Wimbledon?",
+    "choices": ["USA", "France", "UK", "Australia"],
+    "correctIndex": 2
+  },
+  {
+    "id": 30,
+    "category": "Sports",
+    "question": "What is the national sport of Japan?",
+    "choices": ["Baseball", "Sumo Wrestling", "Judo", "Karate"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": 31,
+    "category": "Technology",
+    "question": "What does CPU stand for?",
+    "choices": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Power Unit"],
+    "correctIndex": 1
+  },
+  {
+    "id": 32,
+    "category": "Technology",
+    "question": "Which company developed Windows OS?",
+    "choices": ["Apple", "Google", "Microsoft", "IBM"],
+    "correctIndex": 2
+  },
+  {
+    "id": 33,
+    "category": "Technology",
+    "question": "What does AI stand for?",
+    "choices": ["Automated Interface", "Artificial Intelligence", "Advanced Integration", "Algorithm Input"],
+    "correctIndex": 1
+  },
+  {
+    "id": 34,
+    "category": "Technology",
+    "question": "Which of the following is an example of open-source software?",
+    "choices": ["Windows", "Linux", "macOS", "iOS"],
+    "correctIndex": 1
+  },
+  {
+    "id": 35,
+    "category": "Technology",
+    "question": "What is the full form of URL?",
+    "choices": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Reference Link", "Universal Reference Locator"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 36,
+    "category": "Movies",
+    "question": "Which movie won Best Picture at the 2020 Oscars?",
+    "choices": ["1917", "Parasite", "Joker", "Ford v Ferrari"],
+    "correctIndex": 1
+  },
+  {
+    "id": 37,
+    "category": "Movies",
+    "question": "Who directed the movie 'Inception'?",
+    "choices": ["Christopher Nolan", "Steven Spielberg", "James Cameron", "Martin Scorsese"],
+    "correctIndex": 0
+  },
+  {
+    "id": 38,
+    "category": "Movies",
+    "question": "Which film series features the character 'Harry Potter'?",
+    "choices": ["Star Wars", "Harry Potter", "Lord of the Rings", "Avengers"],
+    "correctIndex": 1
+  },
+  {
+    "id": 39,
+    "category": "Movies",
+    "question": "Which actor plays Iron Man in the Marvel Universe?",
+    "choices": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Tom Holland"],
+    "correctIndex": 1
+  },
+  {
+    "id": 40,
+    "category": "Movies",
+    "question": "In which year was the movie 'Avatar' released?",
+    "choices": ["2007", "2008", "2009", "2010"],
+    "correctIndex": 2
+  }
+]
